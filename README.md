@@ -2,6 +2,9 @@
 
 A web-based Pokemon battle simulation application powered by AI, featuring both a user-friendly web interface and MCP (Model Context Protocol) server integration for advanced interactions.
 
+**Live Demo:**  
+[https://ai-pokemon-arena-mcp-server.vercel.app/](https://ai-pokemon-arena-mcp-server.vercel.app/)
+
 ## Features
 
 - **Interactive Web Interface**: Select Pokemon and simulate battles through a clean, responsive web UI
@@ -68,6 +71,9 @@ npm run web
 ```
 
 Open `http://localhost:3001/simple-battle.html` in your browser to access the battle arena.
+
+You can also access the live demo at:  
+[https://ai-pokemon-arena-mcp-server.vercel.app/](https://ai-pokemon-arena-mcp-server.vercel.app/)
 
 **Features:**
 - Search and select Pokemon for battle
